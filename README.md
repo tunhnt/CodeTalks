@@ -1,4 +1,4 @@
-"# codetalks" 
+# codetalks
 
 React native kursu kapsamında yaptığım proje
 
